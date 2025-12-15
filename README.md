@@ -108,8 +108,8 @@ recommend("Avatar")
 
 ```
 
-## **Contact**
-LinkedIn: [Muhammad Javed](https://www.linkedin.com/in/muhammad-javed-24b262369/)\n
-Email: muhammadjaved.tech5@gmail.com\n
-GitHub: [Muhammad-Javed2005](https://github.com/Muhammad-Javed2005)\n
+## **Contact**<br>
+LinkedIn: [Muhammad Javed](https://www.linkedin.com/in/muhammad-javed-24b262369/)<br>
+Email: muhammadjaved.tech5@gmail.com<br>
+GitHub: [Muhammad-Javed2005](https://github.com/Muhammad-Javed2005)<br>
 
