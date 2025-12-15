@@ -106,7 +106,7 @@ def recommend(movie):
 recommend("Avatar")
 
 
-
+```
 
 ## **Contact**
 LinkedIn: [Muhammad Javed](https://www.linkedin.com/in/muhammad-javed-24b262369/)
